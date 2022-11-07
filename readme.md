@@ -25,3 +25,5 @@ Em sequida, compara o elemento do meio desta nova lista, e repete o procedimento
 Desta forma, em uma pesquisa linear, a cada comparação, são eliminados apenas 1 elemento, enqaunto que na pesquisa binária, a cada comparação, é eliminada metade dos elementos da lista.
 
 No arquivo "pesquisa_binaria-EXEMPLO.py", em Python, há uma lista com mil elementos e duas funções (pesquisa_binaria e pesquisa_linear), com o propósito de comparar a quantidade de comparações feitas por cada algoritmo.
+
+Veja o artigo completo sobre este algoritmo neste link: [https://www.linkedin.com/pulse/busca-bin%C3%A1ria-um-algoritmo-simples-e-muito-eficiente-lucas-menegatti/](https://www.linkedin.com/pulse/busca-bin%C3%A1ria-um-algoritmo-simples-e-muito-eficiente-lucas-menegatti/)
