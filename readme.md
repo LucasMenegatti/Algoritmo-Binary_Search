@@ -26,4 +26,4 @@ Desta forma, em uma pesquisa linear, a cada comparação, são eliminados apenas
 
 No arquivo "pesquisa_binaria-EXEMPLO.py", em Python, há uma lista com mil elementos e duas funções (pesquisa_binaria e pesquisa_linear), com o propósito de comparar a quantidade de comparações feitas por cada algoritmo.
 
-Veja o artigo completo sobre este algoritmo neste link: [https://www.linkedin.com/pulse/busca-bin%C3%A1ria-um-algoritmo-simples-e-muito-eficiente-lucas-menegatti/](https://www.linkedin.com/pulse/busca-bin%C3%A1ria-um-algoritmo-simples-e-muito-eficiente-lucas-menegatti/)
+Veja o meu artigo completo sobre este algoritmo neste link: [https://www.linkedin.com/pulse/busca-bin%C3%A1ria-um-algoritmo-simples-e-muito-eficiente-lucas-menegatti/](https://www.linkedin.com/pulse/busca-bin%C3%A1ria-um-algoritmo-simples-e-muito-eficiente-lucas-menegatti/)
